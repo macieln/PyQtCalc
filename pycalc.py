@@ -31,3 +31,7 @@ def main():
     py_calc_window.show()
 
     sys.exit(py_calc_app.exec())
+
+
+if __name__ == "__main__":
+    main()
